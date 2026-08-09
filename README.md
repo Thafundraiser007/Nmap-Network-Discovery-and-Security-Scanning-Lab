@@ -1,5 +1,5 @@
 # Nmap-Network-Discovery-and-Security-Scanning-Lab
-<img width="56" height="62" alt="Screenshot 2026-08-10 022703" src="https://github.com/user-attachments/assets/91590539-a277-4c85-a662-878f60c29e40" />
+<img width="112" height="124" alt="Screenshot 2026-08-10 022703" src="https://github.com/user-attachments/assets/91590539-a277-4c85-a662-878f60c29e40" />
 
 A hands-on network reconnaissance lab using **Nmap and Zenmap on Windows 11** to perform host discovery, TCP port scanning, service detection, OS fingerprinting, and network analysis against an authorized Android device connected through USB tethering.
 
