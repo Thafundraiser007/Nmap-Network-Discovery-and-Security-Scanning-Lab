@@ -453,10 +453,6 @@ Nmap-Network-Discovery-and-Security-Scanning-Lab/
 
 Aspiring Network / Infrastructure Engineer
 
-Hands-on experience and interests include:
-
-`Networking` • `Cisco` • `Windows Server` • `Linux` • `Nmap` • `Wireshark` • `EVE-NG` • `VMware` • `Network Automation` • `Infrastructure` • `Cybersecurity` • `Telecommunications`
-
 ---
 
 *This repository documents a practical networking lab conducted for educational and portfolio purposes.*
